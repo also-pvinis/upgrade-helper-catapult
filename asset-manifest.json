@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/upgrade-helper-catapult/static/css/main.bb9eb706.chunk.css",
-    "main.js": "/upgrade-helper-catapult/static/js/main.c39bd7ec.chunk.js",
-    "main.js.map": "/upgrade-helper-catapult/static/js/main.c39bd7ec.chunk.js.map",
+    "main.js": "/upgrade-helper-catapult/static/js/main.120a7d9a.chunk.js",
+    "main.js.map": "/upgrade-helper-catapult/static/js/main.120a7d9a.chunk.js.map",
     "runtime~main.js": "/upgrade-helper-catapult/static/js/runtime~main.be88f583.js",
     "runtime~main.js.map": "/upgrade-helper-catapult/static/js/runtime~main.be88f583.js.map",
-    "static/css/2.873f960c.chunk.css": "/upgrade-helper-catapult/static/css/2.873f960c.chunk.css",
-    "static/js/2.46d60b6e.chunk.js": "/upgrade-helper-catapult/static/js/2.46d60b6e.chunk.js",
-    "static/js/2.46d60b6e.chunk.js.map": "/upgrade-helper-catapult/static/js/2.46d60b6e.chunk.js.map",
+    "static/css/2.4a0c4a1c.chunk.css": "/upgrade-helper-catapult/static/css/2.4a0c4a1c.chunk.css",
+    "static/js/2.0b139fd3.chunk.js": "/upgrade-helper-catapult/static/js/2.0b139fd3.chunk.js",
+    "static/js/2.0b139fd3.chunk.js.map": "/upgrade-helper-catapult/static/js/2.0b139fd3.chunk.js.map",
     "index.html": "/upgrade-helper-catapult/index.html",
-    "precache-manifest.29357e6fac7133b735e1d0645b04cec3.js": "/upgrade-helper-catapult/precache-manifest.29357e6fac7133b735e1d0645b04cec3.js",
+    "precache-manifest.1c0c309ef40a6fec4afdd4e452570436.js": "/upgrade-helper-catapult/precache-manifest.1c0c309ef40a6fec4afdd4e452570436.js",
     "service-worker.js": "/upgrade-helper-catapult/service-worker.js",
-    "static/css/2.873f960c.chunk.css.map": "/upgrade-helper-catapult/static/css/2.873f960c.chunk.css.map",
+    "static/css/2.4a0c4a1c.chunk.css.map": "/upgrade-helper-catapult/static/css/2.4a0c4a1c.chunk.css.map",
     "static/css/main.bb9eb706.chunk.css.map": "/upgrade-helper-catapult/static/css/main.bb9eb706.chunk.css.map",
     "static/media/logo.svg": "/upgrade-helper-catapult/static/media/logo.74ebf3f4.svg"
   }
